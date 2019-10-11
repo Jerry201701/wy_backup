@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kitty.iml" filepath="$PROJECT_DIR$/.idea/kitty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-admin/kitty-admin.iml" filepath="$PROJECT_DIR$/kitty-admin/kitty-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-common/kitty-common.iml" filepath="$PROJECT_DIR$/kitty-common/kitty-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-core/kitty-core.iml" filepath="$PROJECT_DIR$/kitty-core/kitty-core.iml" />
+    </modules>
+  </component>
+</project>
